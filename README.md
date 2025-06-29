@@ -1,4 +1,4 @@
-![Header](https://media.licdn.com/dms/image/v2/D5616AQGJx4ygecc9-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682967059498?e=1744848000&v=beta&t=rsEZcg7xbBReROdaa6ZldCfQSFt_nkb4bZ21UiVcZ-M)
+![Header](1682967059498.jpg)
 
 <h1 align="center">Hi 👋, I'm Balu Areti</h1>
 <h3 align="center">🚀 A Passionate Developer & AI Enthusiast from India</h3>
