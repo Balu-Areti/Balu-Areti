@@ -1,76 +1,110 @@
 ![Header](1682967059498.jpg)
 
-<h1 align="center">Hi 👋, I'm Balu Areti</h1>
-<h3 align="center">🚀 A Passionate Developer & AI Enthusiast from India</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
+# Hi 👋, I'm Balu Areti
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balu1006&label=Profile%20views&color=0e75b6&style=flat" alt="balu1006" /> </p>
+### 🚀 AI & Cloud-Focused Full Stack Engineer
+*Building scalable applications by blending Intelligent Systems with Modern Web Architecture.*
 
-### 🚀 About Me
-- 🌱 I’m currently learning **Full Stack Development & AI/ML**
-- 💡 Passionate about **AI, Web Development, Data Science, and Cloud Computing**
-- 💬 Ask me about **JavaScript, Python, AI/ML, Data Analytics, and more...**
-- 📫 How to reach me **balumahendraareti@gmail.com**
-- ⚡ Fun fact: **I love to automate tasks and build insightful data-driven solutions!**
+<a href="https://balu1006.github.io/Balu_Areti-portfolio-react/">
+  <img src="https://img.shields.io/badge/🚀_View_Intelligent_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="View Portfolio" />
+</a>
 
----
-
-### 🛠️ Tech Stack & Skills
-
-#### 🚀 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-#### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-
-#### 🚀 Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-
-#### 🚀 Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
-#### 🚀 Data Science & AI/ML
-📊 Data Analysis | 📈 Statistics | 🤖 Machine Learning | 🔍 Deep Learning | 🖼️ Computer Vision | 📊 Data Visualization | 📡 Big Data Analytics
-
-#### 🚀 Additional Knowledge Areas
-💻 Web Development (Front-End) | 🗄️ Database | 🌐 Computer Networking (OSI) | 🏗️ System Design | 🔄 Agile Development | 🏆 OOP | 🛠️ CI/CD | ☁️ Cloud Computing | 🧠 AI Ethics | 🎭 NLP | 🚀 Model Deployment | 🕹️ Reinforcement Learning
-
----
-
-### 📞 Connect with Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/balu-areti-4608ba213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balu areti" height="30" width="40" /></a>
-<a href="https://instagram.com/balu_mahendra_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balu_mahendra_9" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/balu34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="balu34" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=balu1006&label=Profile%20Views&color=0e75b6&style=flat" alt="balu1006" />
 </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Master of Computer Applications (MCA)** student at **KIIT University** with a **9.5 CGPA**. I enjoy building end-to-end applications that combine **Machine Learning** backends with high-performance **React** frontends, deployed on **AWS** infrastructure.
+
+* 🔭 I’m currently exploring **MLOps basics & AI Credibility Systems**.
+* ☁️ **Certified:** AWS Cloud Practitioner & Meta Front-End Developer.
+* 🤝 **Open for:** Full-time roles in **Full Stack**, **AI/ML**, or **Cloud Engineering**.
+* ⚡ **Core Philosophy:** "Build fast. Build clean. Build scalable."
+
+---
+
+### 🚀 My Professional Journey
+
+<div align="center">
+
+| Year | Milestone 🏆 |
+| :--- | :--- |
+| **2025** | 🚀 **Launched Intelligent Portfolio** (React/Vite/AWS) |
+| **2024** | ☁️ **AWS Certified Cloud Practitioner** (Score: 864/1000) |
+| **2024** | 🤖 **Infosys Springboard Internship** (Deep Learning & AI) |
+| **2023** | 🎓 **Meta Front-End Developer Professional Certification** |
+
+</div>
+
+---
+
+### 🛠️ The Engineering Stack
+
+<div align="center">
+
+#### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### 💻 Full Stack Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+#### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[AI-Powered Fake News Detector](https://huggingface.co/spaces/balumahendra/AI-Powered-Fake-News-Detector)** | **BERT, PyTorch, Docker** | A hybrid NLP credibility engine deployed on Hugging Face Spaces. Achieved **96% accuracy** blending rule-based and DL approaches. |
+| **[Object Recognition System](https://github.com/balu1006/Infosys-Object-Recognition-System)** | **OpenCV, TensorFlow, Flask** | Real-time computer vision system for detecting and classifying objects with a custom Flask-based web interface. |
+| **[Intelligent Portfolio](https://balu1006.github.io/Balu_Areti-portfolio-react/)** | **React, Vite, Framer Motion** | A high-performance (**100/100 Lighthouse**) personal platform with modern CI/CD architecture. |
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=balu1006&show_icons=true&locale=en" alt="balu1006" />
-</p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balu1006&show_icons=true&locale=en&layout=compact" alt="balu1006" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balu1006&show_icons=true&locale=en&theme=radical" alt="balu1006" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balu1006&show_icons=true&locale=en&layout=compact&theme=radical" alt="balu1006" />
+</div>
 
 ---
 
-### ☕ Support Me
-<p><a href="https://www.buymeacoffee.com/BuyMeACoffee"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a></p>
+### 📬 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/balu-areti-4608ba213/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:balumahendraareti@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://balu1006.github.io/Balu_Areti-portfolio-react/">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+</a>
+
+</div>
