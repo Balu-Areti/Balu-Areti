@@ -7,12 +7,12 @@
 ### 🚀 AI & Cloud-Focused Full Stack Engineer
 *Building scalable applications by blending Intelligent Systems with Modern Web Architecture.*
 
-<a href="https://balu1006.github.io/Balu_Areti-portfolio-react/">
+<a href="https://baluareti.is-a.dev/">
   <img src="https://img.shields.io/badge/🚀_View_Intelligent_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="View Portfolio" />
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balu1006&label=Profile%20Views&color=0e75b6&style=flat" alt="balu1006" />
+  <img src="https://komarev.com/ghpvc/?username=baluareti&label=Profile%20Views&color=0e75b6&style=flat" alt="baluareti" />
 </p>
 
 </div>
