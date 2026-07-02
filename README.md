@@ -8,6 +8,7 @@
 *Building scalable applications by blending Intelligent Systems with Modern Web Architecture.*
 
 <a href="https://baluareti.is-a.dev/">
+  
   <img src="https://img.shields.io/badge/🚀_View_Intelligent_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="View Portfolio" />
 </a>
 
