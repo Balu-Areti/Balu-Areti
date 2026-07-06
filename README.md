@@ -87,9 +87,9 @@ I am a **Master of Computer Applications (MCA)** student at **KIIT University** 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balu1006&show_icons=true&locale=en&theme=radical" alt="balu1006" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balu-areti&show_icons=true&locale=en&theme=radical" alt="balu-areti" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balu1006&show_icons=true&locale=en&layout=compact&theme=radical" alt="balu1006" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balu-areti&show_icons=true&locale=en&layout=compact&theme=radical" alt="balu-areti" />
 </div>
 
 ---
