@@ -27,7 +27,7 @@ Java/Spring Boot on the backend, React on the frontend - and I'm actively growin
 skills alongside that, using pre-trained models and thoughtful system design rather than claiming
 deep ML expertise I haven't earned yet.
 
-* 🔭 I'm currently strengthening my **Spring Boot / backend fundamentals** and applied AI/ML skills.
+* 🔭 **Currently learning:** JDBC, Servlets/JSP, JWT, JUnit5, Jenkins, Kubernetes, and Jira through a structured Java Full Stack + AI curriculum.
 * ☁️ **Certified:** AWS Cloud Practitioner (864/1000) & Meta Front-End Developer Professional.
 * 🤝 **Open for:** Full-time roles in **Java Full Stack Development**, with AI/ML as a growing strength.
 * ⚡ **Core Philosophy:** "Understand the fundamentals first. Build what you can explain."
@@ -42,8 +42,9 @@ deep ML expertise I haven't earned yet.
 | :--- | :--- |
 | **2025** | 🧠 Designed and built an end-to-end AI credibility engine independently, from research to deployment |
 | **2024** | ☁️ AWS Certified Cloud Practitioner (Score: 864/1000) |
-| **2024** | 🤖 Infosys Springboard Internship - frontend contribution, SRS documentation, and hands-on AI/ML exposure |
+| **2024** | 🤖 Infosys Springboard Internship — frontend contribution, SRS documentation, and hands-on AI/ML exposure |
 | **2023** | 🎓 Meta Front-End Developer Professional Certification |
+
 
 </div>
 
@@ -82,7 +83,7 @@ deep ML expertise I haven't earned yet.
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[AI-Powered Fake News Detector](https://huggingface.co/spaces/balumahendra/AI-Powered-Fake-News-Detector)** | **PyTorch, BERT, Flask, Docker** | Designed the end-to-end system architecture and SRS myself after researching existing fake-news detection approaches. Built a hybrid credibility engine - a fine-tuned BERT model combined with a source-reputation layer -- after noticing pre-trained models underperform on non-Western news sources. Achieved **96% accuracy**, containerized and deployed with CI/CD. |
+| **[AI-Powered Fake News Detector](https://huggingface.co/spaces/balumahendra/AI-Powered-Fake-News-Detector)** | **PyTorch, BERT, Flask, Docker** | Designed the end-to-end system architecture and SRS myself after researching existing fake-news detection approaches. Built a hybrid credibility engine - a fine-tuned BERT model combined with a source-reputation layer - after noticing pre-trained models underperform on non-Western news sources. Achieved **96% accuracy**, containerized and deployed with CI/CD. |
 | **[Object Recognition System](https://github.com/balu1006/Infosys-Object-Recognition-System)** | **Flask, MongoDB, YOLOv8, OpenCV** | Built during my Infosys Springboard internship. Contributed to the **frontend** and authored the **SRS documentation**, while collaborating with the team building the YOLOv8/OpenCV detection pipeline. My biggest takeaway: learning how AI/ML systems get scoped and documented in a real team setting. |
 | **[Intelligent Portfolio](https://balu1006.github.io/Balu_Areti-portfolio-react/)** | **React, Vite, Framer Motion** | A personal portfolio site built to practice modern frontend architecture — component design, animations, and CI/CD deployment. Scored **100/100 on Lighthouse** performance. |
 
