@@ -1,4 +1,4 @@
-![Header](1682967059498.jpg)
+![LinkedIn Banner](./LinkedIn%20Banner%20%282%29.png)
 
 <div align="center">
 
