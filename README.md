@@ -4,12 +4,11 @@
 
 # Hi 👋, I'm Balu Areti
 
-### 🚀 AI & Cloud-Focused Full Stack Engineer
-*Building scalable applications by blending Intelligent Systems with Modern Web Architecture.*
+### 🚀 Java Full Stack Developer | Exploring AI-Powered Systems
+*Building reliable, well-tested applications with Java & modern web technologies, with hands-on exposure to applied AI.*
 
 <a href="https://baluareti.is-a.dev/">
-  
-  <img src="https://img.shields.io/badge/🚀_View_Intelligent_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="View Portfolio" />
+  <img src="https://img.shields.io/badge/🚀_View_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="View Portfolio" />
 </a>
 
 <p align="center">
@@ -22,25 +21,29 @@
 
 ### 👨‍💻 About Me
 
-I am a **Master of Computer Applications (MCA)** student at **KIIT University** with a **9.5 CGPA**. I enjoy building end-to-end applications that combine **Machine Learning** backends with high-performance **React** frontends, deployed on **AWS** infrastructure.
+I'm a **Master of Computer Applications (MCA)** graduate from **KIIT University** (CGPA: 9.5/10.0),
+currently building my career as a **Java Full Stack Developer**. I enjoy working across the stack -
+Java/Spring Boot on the backend, React on the frontend - and I'm actively growing my applied AI
+skills alongside that, using pre-trained models and thoughtful system design rather than claiming
+deep ML expertise I haven't earned yet.
 
-* 🔭 I’m currently exploring **MLOps basics & AI Credibility Systems**.
-* ☁️ **Certified:** AWS Cloud Practitioner & Meta Front-End Developer.
-* 🤝 **Open for:** Full-time roles in **Full Stack**, **AI/ML**, or **Cloud Engineering**.
-* ⚡ **Core Philosophy:** "Build fast. Build clean. Build scalable."
+* 🔭 I'm currently strengthening my **Spring Boot / backend fundamentals** and applied AI/ML skills.
+* ☁️ **Certified:** AWS Cloud Practitioner (864/1000) & Meta Front-End Developer Professional.
+* 🤝 **Open for:** Full-time roles in **Java Full Stack Development**, with AI/ML as a growing strength.
+* ⚡ **Core Philosophy:** "Understand the fundamentals first. Build what you can explain."
 
 ---
 
-### 🚀 My Professional Journey
+### 🚀 My Journey So Far
 
 <div align="center">
 
 | Year | Milestone 🏆 |
 | :--- | :--- |
-| **2025** | 🚀 **Launched Intelligent Portfolio** (React/Vite/AWS) |
-| **2024** | ☁️ **AWS Certified Cloud Practitioner** (Score: 864/1000) |
-| **2024** | 🤖 **Infosys Springboard Internship** (Deep Learning & AI) |
-| **2023** | 🎓 **Meta Front-End Developer Professional Certification** |
+| **2025** | 🧠 Designed and built an end-to-end AI credibility engine independently, from research to deployment |
+| **2024** | ☁️ AWS Certified Cloud Practitioner (Score: 864/1000) |
+| **2024** | 🤖 Infosys Springboard Internship - frontend contribution, SRS documentation, and hands-on AI/ML exposure |
+| **2023** | 🎓 Meta Front-End Developer Professional Certification |
 
 </div>
 
@@ -50,25 +53,26 @@ I am a **Master of Computer Applications (MCA)** student at **KIIT University** 
 
 <div align="center">
 
-#### 🤖 AI & Machine Learning
+#### 💻 Core: Java Full Stack
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🤖 Applied AI & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### 💻 Full Stack Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-#### ☁️ DevOps & Cloud
+#### ☁️ Cloud, DevOps & Data
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -78,9 +82,9 @@ I am a **Master of Computer Applications (MCA)** student at **KIIT University** 
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[AI-Powered Fake News Detector](https://huggingface.co/spaces/balumahendra/AI-Powered-Fake-News-Detector)** | **BERT, PyTorch, Docker** | A hybrid NLP credibility engine deployed on Hugging Face Spaces. Achieved **96% accuracy** blending rule-based and DL approaches. |
-| **[Object Recognition System](https://github.com/balu1006/Infosys-Object-Recognition-System)** | **OpenCV, TensorFlow, Flask** | Real-time computer vision system for detecting and classifying objects with a custom Flask-based web interface. |
-| **[Intelligent Portfolio](https://balu1006.github.io/Balu_Areti-portfolio-react/)** | **React, Vite, Framer Motion** | A high-performance (**100/100 Lighthouse**) personal platform with modern CI/CD architecture. |
+| **[AI-Powered Fake News Detector](https://huggingface.co/spaces/balumahendra/AI-Powered-Fake-News-Detector)** | **PyTorch, BERT, Flask, Docker** | Designed the end-to-end system architecture and SRS myself after researching existing fake-news detection approaches. Built a hybrid credibility engine - a fine-tuned BERT model combined with a source-reputation layer -- after noticing pre-trained models underperform on non-Western news sources. Achieved **96% accuracy**, containerized and deployed with CI/CD. |
+| **[Object Recognition System](https://github.com/balu1006/Infosys-Object-Recognition-System)** | **Flask, MongoDB, YOLOv8, OpenCV** | Built during my Infosys Springboard internship. Contributed to the **frontend** and authored the **SRS documentation**, while collaborating with the team building the YOLOv8/OpenCV detection pipeline. My biggest takeaway: learning how AI/ML systems get scoped and documented in a real team setting. |
+| **[Intelligent Portfolio](https://balu1006.github.io/Balu_Areti-portfolio-react/)** | **React, Vite, Framer Motion** | A personal portfolio site built to practice modern frontend architecture — component design, animations, and CI/CD deployment. Scored **100/100 on Lighthouse** performance. |
 
 ---
 
@@ -104,8 +108,8 @@ I am a **Master of Computer Applications (MCA)** student at **KIIT University** 
 <a href="mailto:balumahendraareti@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://balu1006.github.io/Balu_Areti-portfolio-react/">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+<a href="https://baluareti.is-a.dev/">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
 
 </div>
